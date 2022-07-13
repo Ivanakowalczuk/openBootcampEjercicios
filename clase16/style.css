@@ -1,0 +1,17 @@
+.parrafo.dragging {
+    opacity: 0.3;
+}
+
+
+.imagen-fantasma {
+    width: 1000px;
+    height: 56px;
+    background-color: white;
+    position: absolute;
+    left: -100vw;
+}
+
+.papelera{
+    width: 100px;
+    
+}
